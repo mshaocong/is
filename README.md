@@ -1,2 +1,5 @@
+# Simulation
+Generate Markov processes given transition density. 
+
 # Importance Sampling
-Some simulations and applications of IS 
+Consider several cases of rare event. Use IS to estimate the probability.
