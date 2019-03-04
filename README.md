@@ -10,7 +10,7 @@ This is an extension of a simulation course project. A general frame for importa
 
 # A brief introduction to importance sampling
 
-[Importance sampling](https://en.wikipedia.org/wiki/Importance_sampling) is well-known variance reduction technique. It has been used in many fields including finance and machine learning. The general idea is, when estimate something, instead of sampling under the original measure, we sample under a better measure such that the variance of our estimator is much smaller.   
+[Importance sampling](https://en.wikipedia.org/wiki/Importance_sampling) is a well-known variance reduction technique. It has been used in many fields including finance and machine learning. The general idea is, for example, when we want to estimate an expectation of a random variable, instead of sampling it under the objective measure, we sample it under a better measure such that the variance of our estimator is much smaller.   
 
 # Sampling
 In `mc_generator.py`, a usual method used to simulate a Markov processes is implemented. In `Markov process.ipynb` notebook, several examples are introduced, including the following part
