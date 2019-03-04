@@ -1,6 +1,6 @@
 This is an extension of a simulation course project. A general frame for importance sampling is implemented here. It will contains the following part: 
 
-1. Sampling a stochastic process (under the realistic measure). 
+1. Sampling a stochastic process (under the objective measure). 
 
 2. Change of measure - usually we want to sample the stochastic process from a different measure (given the Radon-Nikodym density).
 
